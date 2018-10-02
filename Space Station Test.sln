@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Station Test", "Space Station Test.csproj", "{95773E22-FF84-281E-977F-F6A5F33F8455}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Station Test.Plugins", "Space Station Test.Plugins.csproj", "{62467F2A-9912-C7DD-F7EE-7BEDC5F41439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Station Test.Editor.Plugins", "Space Station Test.Editor.Plugins.csproj", "{FD62FF35-C255-DC64-7CE9-34EE02A29D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95773E22-FF84-281E-977F-F6A5F33F8455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95773E22-FF84-281E-977F-F6A5F33F8455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95773E22-FF84-281E-977F-F6A5F33F8455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95773E22-FF84-281E-977F-F6A5F33F8455}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62467F2A-9912-C7DD-F7EE-7BEDC5F41439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62467F2A-9912-C7DD-F7EE-7BEDC5F41439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62467F2A-9912-C7DD-F7EE-7BEDC5F41439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62467F2A-9912-C7DD-F7EE-7BEDC5F41439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD62FF35-C255-DC64-7CE9-34EE02A29D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD62FF35-C255-DC64-7CE9-34EE02A29D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD62FF35-C255-DC64-7CE9-34EE02A29D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD62FF35-C255-DC64-7CE9-34EE02A29D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
